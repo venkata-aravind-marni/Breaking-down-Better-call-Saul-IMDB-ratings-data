@@ -4,3 +4,5 @@ I found a tonne of tutorials on the internet to scrape movie ratings from IMDB b
 So, I'm writing this to make your life easier.  
 
 In this tutorial we’ll learn to scrape multiple web pages with Python using BeautifulSoup and requests to get imdb data from all seasons of Better Call Saul. We’ll then perform some simple analysis using pandas, and matplotlib.
+
+Just download the code file and run it in jupyter or google colab to view the detailed report.
